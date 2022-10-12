@@ -243,6 +243,15 @@ li a:hover {
     margin-left: -70px;
     margin-right: -70px;
     border-top: solid;
+
+    border-width: thin;
+    border-color:  #d4d4d4;
+  }
+  .line2{
+    margin-left: -70px;
+    margin-right: -70px;
+    border-top: solid;
+
     border-width: thin;
     border-color:  #d4d4d4;
   }
